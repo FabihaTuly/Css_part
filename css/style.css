@@ -1,0 +1,48 @@
+h1{
+	color: red;
+	font-size: 40px;
+}
+p{
+	background-color: skyblue;
+	font-size: 20px;
+}
+h2{
+	color:green;
+	font-size: 40px;
+}
+ol{
+	background-color:yellow;
+	font-size: 20px;
+}
+h3{
+	font-size: 40px;
+	color:blue;
+}
+article{
+	background-color: skyblue;
+	font-size: 20px;
+}
+h4{
+	color:purple;
+	font-size: 40px;
+}
+li{
+	background-color: yellow;
+	font-size:20px;
+}
+.head2{
+	font-size: 30px;
+	color:green;
+}
+#head{
+	font-size: 40px;
+	color:red;
+	background-color: black;
+}
+.d_head{
+	background-color: purple;
+}
+h4{
+	font-size: 50px;
+	background-color: rgba(11,11,11,.3);
+}
